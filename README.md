@@ -309,7 +309,7 @@ This project introduces:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Key-features
 
 Developed as a full-stack AI system integrating:
 
