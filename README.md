@@ -332,14 +332,13 @@ Give it a ⭐ on GitHub.
 
 
 
-
-## Results
+## 📊 Results
 
 ### Main Dashboard
 ![Main Dashboard](screenshots/dashboard-main.png)
 
 ### Engagement Breakdown
-![Engagement](screenshots/dashboard-engagement.png)
+![Engagement Breakdown](screenshots/dashboard-engagement.png)
 
 ### Simulation History
-![History](screenshots/dashboard-history.png)
+![Simulation History](screenshots/dashboard-history.png)
