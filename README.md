@@ -328,3 +328,18 @@ Developed as a full-stack AI system integrating:
 ## 🙌 If You Like This Project
 
 Give it a ⭐ on GitHub.
+
+
+
+
+
+## Results
+
+### Main Dashboard
+![Main Dashboard](screenshots/dashboard-main.png)
+
+### Engagement Breakdown
+![Engagement](screenshots/dashboard-engagement.png)
+
+### Simulation History
+![History](screenshots/dashboard-history.png)
